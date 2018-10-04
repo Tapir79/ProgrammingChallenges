@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProgrammingChallenges.iml" filepath="$PROJECT_DIR$/.idea/modules/ProgrammingChallenges.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProgrammingChallenges_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ProgrammingChallenges_main.iml" group="ProgrammingChallenges" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ProgrammingChallenges_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ProgrammingChallenges_test.iml" group="ProgrammingChallenges" />
+    </modules>
+  </component>
+</project>
